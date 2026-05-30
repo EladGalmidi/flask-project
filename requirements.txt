@@ -1,0 +1,9 @@
+
+
+Flask==3.0.3
+cryptography==42.0.8
+PyJWT==2.8.0
+python-dotenv==1.0.1
+Werkzeug==3.0.3
+Flask-Limiter==3.7.0
+pytest==8.2.2
